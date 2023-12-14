@@ -30,10 +30,8 @@ public class Circles {
 		double x = 3.14*r*r;
 		return x;
 	}
-	public double circum() {
-		double x = 3.14*r*2;
-		return x;
-	}
+
+	
 	
 	@Override
 	public boolean equals(Object obj) {
