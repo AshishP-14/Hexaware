@@ -1,6 +1,6 @@
 package training;
 /*
- * this is a comment addd
+ * this is a comment addding to the repo
  */
 public class Circles {
 	private int r;
